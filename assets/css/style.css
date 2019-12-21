@@ -16,6 +16,8 @@ The entire content and the main section content area is `960px` wide.
 */
 
 /*---------Styles Appling to Entire Site---------*/
+
+
 body {
     font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
     font-size: 18px;
@@ -77,6 +79,11 @@ body {
 
   /* header */
   
+  #color {
+    color: #777777;
+    background-color: #ffffff;
+  }
+
   #mainhead {
     position: fixed;
     z-index: 99;
@@ -158,7 +165,7 @@ footer {
 }
 
   /* portfolio page */
-  
+
   .port {
     position: relative;
     float: left;
@@ -248,3 +255,4 @@ footer {
   label {
       color: #777777
   }
+  
