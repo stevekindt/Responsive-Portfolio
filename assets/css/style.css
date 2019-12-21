@@ -82,6 +82,7 @@ body {
   #color {
     color: #777777;
     background-color: #ffffff;
+    border-bottom: 1px solid #cccccc;
   }
 
   #mainhead {
@@ -96,6 +97,7 @@ body {
   }
   
   #logo {
+    margin-top: 20px;
     float: left;
     width: 250px;
     height: 90px;
