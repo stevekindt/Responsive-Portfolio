@@ -1,1 +1,2 @@
 # Responsive-Portfolio
+This is an adaption of the first homework's basic portfolio in which we make the portfolio responsive via Bootstrap's framework. We'll use Bootstrap and its grid system for the navbar, responsive layout, and responsive images to optimize the portfolio for viewing on devices of different sizes.
